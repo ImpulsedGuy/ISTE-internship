@@ -1,0 +1,86 @@
+[
+  {
+    "id": "ingested-1790729595-1",
+    "company": "ICT Academy of Kerala (ICTAK)",
+    "role": "Full-Stack Web & Python Foundation Intern",
+    "domain": "Web Development",
+    "location": "Infopark Kochi / Technopark Trivandrum",
+    "type": "Hybrid",
+    "stipend": "Subsidized fee (~\u20b91,800)",
+    "duration": "1 Month (Sem Break)",
+    "eligibility": "B.Tech S1-S4 (1st & 2nd Years welcome)",
+    "skills": [
+      "Python",
+      "HTML/CSS",
+      "JavaScript",
+      "SQL"
+    ],
+    "applyLink": "https://ictkerala.org/internships",
+    "source": "ICTAK Official",
+    "isEarlyYear": true,
+    "isSemBreak": true
+  },
+  {
+    "id": "ingested-1790729595-2",
+    "company": "C-DAC Thiruvananthapuram",
+    "role": "IoT & Embedded Systems In-Plant Intern",
+    "domain": "Embedded & Robotics",
+    "location": "Vellayambalam, Thiruvananthapuram",
+    "type": "On-site",
+    "stipend": "Subsidized fee (~\u20b93,000)",
+    "duration": "2 to 4 Weeks (Sem Break)",
+    "eligibility": "B.Tech S2, S4, S6 (1st, 2nd & 3rd Years)",
+    "skills": [
+      "Embedded C",
+      "Microcontrollers",
+      "Arduino / ESP32",
+      "Sensors"
+    ],
+    "applyLink": "https://stdc-t.in",
+    "source": "C-DAC Official",
+    "isEarlyYear": true,
+    "isSemBreak": true
+  },
+  {
+    "id": "ingested-1790729595-3",
+    "company": "Keltron Knowledge Services Group",
+    "role": "Industrial Electronics & PCB Design Intern",
+    "domain": "Embedded & Robotics",
+    "location": "Spencer Junction, Thiruvananthapuram",
+    "type": "On-site",
+    "stipend": "Subsidized fee (~\u20b92,000)",
+    "duration": "2 to 4 Weeks (Sem Break)",
+    "eligibility": "B.Tech S2, S4, S6 (All Branches)",
+    "skills": [
+      "PCB Design",
+      "Soldering",
+      "Electronic Hardware",
+      "Circuit Testing"
+    ],
+    "applyLink": "https://keltronrec.com",
+    "source": "Keltron KSG Portal",
+    "isEarlyYear": true,
+    "isSemBreak": true
+  },
+  {
+    "id": "ingested-1790729595-4",
+    "company": "Genpro Research",
+    "role": "Data Science & Health Analytics Intern",
+    "domain": "AI/ML",
+    "location": "Technopark Phase 1, Thiruvananthapuram",
+    "type": "Hybrid",
+    "stipend": "\u20b922,000 / month",
+    "duration": "6 Months",
+    "eligibility": "B.Tech CSE / IT / ECE S6/S8",
+    "skills": [
+      "Python",
+      "Pandas",
+      "SQL",
+      "Data Analytics"
+    ],
+    "applyLink": "https://genproresearch.com/careers",
+    "source": "Company Careers",
+    "isEarlyYear": false,
+    "isSemBreak": false
+  }
+]
